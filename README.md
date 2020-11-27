@@ -1,6 +1,6 @@
-##### Server repo [here](https://github.com/job-search-engine/dci_graduates/tree/master/server)
+##### Server repo [here](https://github.com/costel-dev/dci_graduates/tree/main/server)
 
-##### Client repo [here](https://github.com/job-search-engine/dci_graduates/tree/master/client)
+##### Client repo [here](https://github.com/costel-dev/dci_graduates/tree/main/client)
 
 ### Config & Installation
 
